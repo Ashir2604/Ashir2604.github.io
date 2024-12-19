@@ -11,7 +11,7 @@ I have been fascinated by technology since childhood, which inspired me to pursu
 I’m currently honing my skills in languages like C# and Python, while also exploring cloud technologies.
 
 ## Skills  
-- **Programming Languages**: Python, C#, HTML, CSS.  
+- **Programming Languages**: C#, HTML, CSS.  
 - **Tools & Technologies**: GitHub, Git, Microsoft Teams.  
 - **Soft Skills**: Problem-solving, teamwork, communication.  
 
@@ -19,10 +19,6 @@ I’m currently honing my skills in languages like C# and Python, while also exp
 ### Personal Portfolio  
 [View Project](https://Ashir2604.github.io)  
 - A personal portfolio website created using GitHub Pages to highlight my skills and achievements.
-
-### C# Story Generator  
-[View Repository](https://github.com/Ashir2604/story-generator)  
-- A C# program that takes user inputs to create personalized stories, demonstrating my understanding of programming basics.
 
 ## My Personal Portfolio
 Explore my personal projects, skills, and achievements:  
