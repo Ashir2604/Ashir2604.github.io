@@ -10,5 +10,5 @@ Explore my personal projects, skills, and achievements:
 ## Contact Me
 If you'd like to connect or collaborate, feel free to reach out:
 
-- **Email**: ashir.badar@centria.fi  
-- **GitHub**: https://github.com/ashir2604
+- **Email**: [ashir.badar@centria.fi](mailto:ashir.badar@centria.fi)    
+- **GitHub**: [github.com/Ashir2604](https://github.com/Ashir2604)
